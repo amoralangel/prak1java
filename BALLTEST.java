@@ -6,7 +6,7 @@ public class BallTEST {
         Ball d2 = new Ball ("Red",257);
         Ball d3 = new Ball ("Blue");
         d3.setSize(100);
-//System.out.println(d1);
+        System.out.println(d1);
         d1.Out();
         d2.Out();
         d3.Out();
